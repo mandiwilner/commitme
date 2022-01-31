@@ -42,4 +42,4 @@ button {
   margin: 20px;
 }
 
-div.dotted {outline-style: dotted;}
+div.dotted {outline-style: dashed;}
