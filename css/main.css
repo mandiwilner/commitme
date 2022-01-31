@@ -13,29 +13,29 @@ p{
 }
 
 #square {
- width: 100px;
-  height: 100px;
+ width: 200px;
+  height: 200px;
   background: red;
 }
 
 
 #circle {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background: red;
   border-radius: 50%
 }
 
 #square {
- width: 100px;
-  height: 100px;
+ width: 200px;
+  height: 200px;
   background: red;
 }
 
 
 #circle {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background: red;
   border-radius: 50%
 }
