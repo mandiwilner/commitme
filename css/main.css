@@ -35,5 +35,9 @@ button {
  }
 
  div {
-  padding: 25px 50px 75px 100px;
+  
+    width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
