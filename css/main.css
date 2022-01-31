@@ -5,3 +5,7 @@ body {
 h1 {
 	font-family: 'Comforter', cursive;
 }
+
+p{
+	font-color: orange;
+}
