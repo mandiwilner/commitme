@@ -13,11 +13,22 @@
 		<h1> Commitment HW </h1>
 	</header>
 	<div class="w3-panel w3-red">
-  <h3>Danger!</h3>
+  <h3>Danger</h3>
   <p>Red often indicates a dangerous or negative situation.</p>
 </div>
+
 	<p>
 		I have no idea what to commit 100 times
 	</p>
+
+	<button class="w3-btn" onclick="document.getElementById('id01').style.display='block'">Show panel</button>
+
+<div id="id01" class="w3-panel w3-green w3-display-container" style="display:none">
+  <span onclick="this.parentElement.style.display='none'"
+  class="w3-button w3-display-topright">X</span>
+  <p>Click on the X to close this panel.</p>
+  <p>Click on the X to close this panel.</p>
+</div>
+
 </body>
 </html>
