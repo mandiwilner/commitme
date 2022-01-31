@@ -41,3 +41,5 @@ button {
   padding: 50px;
   margin: 20px;
 }
+
+div.dotted {outline-style: dotted;}
