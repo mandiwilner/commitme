@@ -10,7 +10,10 @@ h1 {
 p{
 	background-color: black;
 	font-family: 'Bebas Neue', cursive;
+
 }
+
+p.dotted {border-style: dotted;}
 
 
 
